@@ -2,5 +2,7 @@
 int main(){
 int no1,no2,sum;
 printf("enter two integer numbers:");
-
+scanf("%d %d", &no1, &no2);
+//calculate the sum
+sum = no1+no2;
 
